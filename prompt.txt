@@ -1,0 +1,4 @@
+.\.venv\Scripts\python.exe -m unittest -v test_game_engine (to test cases)
+.\.venv\Scripts\python.exe -m streamlit run app_v2.py (version 2)
+.\.venv\Scripts\python.exe -m streamlit run app.py (version 1)
+.\.venv\Scripts\python.exe check_models.py
