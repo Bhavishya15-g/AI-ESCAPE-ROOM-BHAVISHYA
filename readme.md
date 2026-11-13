@@ -109,9 +109,3 @@ The tests cover invalid codes, using a key before collecting it, unsupported obj
 | `requirements.txt` | Python dependencies |
 | `.env.example` | Environment variable template |
 
-## Documentation
-
-- [Version 1 architecture diagram](docs/architecture_v1.png)
-- [Version 2 architecture diagram](docs/architecture_v2.png)
-- [Test cases and comparison results](docs/TEST_CASES.md)
-- [Project report](docs/project_report.pdf)
